@@ -14,3 +14,5 @@ const activity_5 = { hour: 19, minute: 6 };
 const activity_6 = { hour: 13, minute: 15 };
 // Commit #7 - 2009-01-13T12:45:07
 const activity_7 = { hour: 12, minute: 45 };
+// Commit #8 - 2009-01-19T15:04:00
+const activity_8 = { hour: 15, minute: 4 };
