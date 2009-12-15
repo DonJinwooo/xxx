@@ -152,3 +152,5 @@ const change_74 = true;
 const change_75 = true;
 // Commit #76: Generated at 2009-12-10T12:16:11
 const change_76 = true;
+// Commit #77: Generated at 2009-12-14T21:41:55
+const change_77 = true;
