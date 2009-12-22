@@ -156,3 +156,5 @@ const change_76 = true;
 const change_77 = true;
 // Commit #78: Generated at 2009-12-18T14:47:49
 const change_78 = true;
+// Commit #79: Generated at 2009-12-22T13:43:32
+const change_79 = true;
