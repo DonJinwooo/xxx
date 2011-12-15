@@ -494,3 +494,5 @@ const change_245 = true;
 const change_246 = true;
 // Commit #247: Generated at 2011-12-12T18:37:11
 const change_247 = true;
+// Commit #248: Generated at 2011-12-15T14:35:17
+const change_248 = true;
