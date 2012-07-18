@@ -622,3 +622,5 @@ const change_309 = true;
 const change_310 = true;
 // Commit #311: Generated at 2012-07-13T14:00:31
 const change_311 = true;
+// Commit #312: Generated at 2012-07-18T12:12:49
+const change_312 = true;
