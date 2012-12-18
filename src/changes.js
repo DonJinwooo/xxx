@@ -674,3 +674,5 @@ const change_335 = true;
 const change_336 = true;
 // Commit #337: Generated at 2012-10-25T20:53:36
 const change_337 = true;
+// Commit #338: Generated at 2012-12-17T21:14:17
+const change_338 = true;
