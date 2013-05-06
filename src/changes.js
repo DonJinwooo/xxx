@@ -738,3 +738,5 @@ const change_367 = true;
 const change_368 = true;
 // Commit #369: Generated at 2013-05-03T15:11:32
 const change_369 = true;
+// Commit #370: Generated at 2013-05-06T11:54:33
+const change_370 = true;
