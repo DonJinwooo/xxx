@@ -774,3 +774,5 @@ const change_385 = true;
 const change_386 = true;
 // Commit #387: Generated at 2013-07-31T19:33:11
 const change_387 = true;
+// Commit #388: Generated at 2013-09-16T19:30:24
+const change_388 = true;
