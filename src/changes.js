@@ -1158,3 +1158,5 @@ const change_577 = true;
 const change_578 = true;
 // Commit #579: Generated at 2015-10-28T15:02:55
 const change_579 = true;
+// Commit #580: Generated at 2015-11-04T13:29:36
+const change_580 = true;
